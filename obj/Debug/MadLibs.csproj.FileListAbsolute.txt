@@ -1,0 +1,11 @@
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.csprojAssemblyReference.cache
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.MadLibs.resources
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.Properties.Resources.resources
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.GenerateResource.cache
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
+C:\Users\Shaun\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.Form2.resources
